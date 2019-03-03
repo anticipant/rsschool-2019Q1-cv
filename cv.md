@@ -43,3 +43,63 @@ E-mail: shakhovich.d@yandex.ru
 * Знание языка разметки/стилей **HTML/CSS**
 * Хорошие знания **PHPStorm**, MSOffice, Photoshop, Google web designer, AutoCad
 
+###Образование:
+2008 – 2013 Белорусский национальный технический университет, Минск
+Факультет транспортных коммуникаций (ФТК), Инженер проектировщик.
+Дополнительное образование:
+2016 Онлайн курс htmlacademy.ru «Базовый интенсив HTML/CSS, frontend developer» 98%
+2016 Онлайн курс htmlacademy.ru «Продвинутый интенсив HTML/CSS, frontend developer» 100%
+2018 Онлайн курс htmlacademy.ru «Professional JavaScript level 1» 99%
+2018 Онлайн курс htmlacademy.ru «Professional JavaScript level 2» 97%
+2018 Онлайн курс htmlacademy.ru «Professional Node.js level 1» 90%
+
+**Информация о курсах (дополнительное образование):**
+
+1. Онлайн игра (SPA, ES6).
+
+    Ссылки: [Demo](https://anticipant.github.io/pixel-hunter/index.html) / 
+            [code](https://github.com/anticipant/Pixel-hunter-JS-2).
+    
+    длительность: 1.5 месяца;
+    разработчик: 1 фронт;
+    выполнял: разработка логики, проектирование, тестирование
+
+1. Сервис размещения объявлений об аренде недвижимости.
+   1. JavaScript 
+
+        Ссылки: [Demo](https://anticipant.github.io/keksbooking/index.html) / 
+                [code](https://github.com/anticipant/Keksobooking-JS-1).
+        
+        длительность: 1.5 месяца;
+        разработчик: 1 фронт;
+        выполнял: разработка логики, проектирование, тестирование
+   1. Node.js
+   
+        Ссылки: [code](https://github.com/anticipant/keksobooking-Node.js).
+        
+        длительность: 1.5 месяца;
+        разработчик: 1 backend (node.js);
+        выполнял: разработка логики, проектирование, тестирование
+
+1. Онлайн магазин (адаптивная верстка)
+
+    Ссылки: [Demo](https://anticipant.github.io/mishka/index.html) / 
+            [code](https://github.com/anticipant/mishka-HTML-CSS-2).
+    
+    длительность: 1 месяц;
+    разработчик: 1 фронт;
+    выполнял: верстка;
+
+1. Онлайн магазин (верстка)
+
+    Ссылки: [Demo](https://anticipant.github.io/glacy/index.html) / 
+            [code](https://github.com/anticipant/gllacy-HTML-CSS-1).
+    
+    длительность: 1 месяц;
+    разработчик: 1 фронт;
+    выполнял: верстка;
+ 
+ 
+ ### Уровень английского 
+ 
+ pre-intermediate
